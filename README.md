@@ -96,9 +96,9 @@ https://github.com/user-attachments/assets/20b4d5f7-e0ef-452e-99d5-b16693016f26
 
 **首帧参考：**
 
-![首帧参考 1](videos/i2v/images/i2vcase1image1.png)
-
-![首帧参考 2](videos/i2v/images/i2vcase1image2.png)
+| 首帧参考 1 | 首帧参考 2 |
+|:---:|:---:|
+| <img src="videos/i2v/images/i2vcase1image1.png" width="300" alt="首帧参考 1"> | <img src="videos/i2v/images/i2vcase1image2.png" width="300" alt="首帧参考 2"> |
 
 **Prompt:**
 ```
@@ -129,11 +129,21 @@ https://github.com/user-attachments/assets/06da22b8-8e47-4233-b6a8-fed2268fb2cc
 
 ### Case 1: 宠物主播脱口秀
 
-**参考图 + Prompt:**
+**参考图：**
+
+| 参考图 1 | 参考图 2 | 参考图 3 |
+|:---:|:---:|:---:|
+| <img src="videos/r2v/images/r2vcase1image1.png" width="300" alt="参考图 1"> | <img src="videos/r2v/images/r2vcase1image2.png" width="300" alt="参考图 2"> | <img src="videos/r2v/images/r2vcase1image3.png" width="300" alt="参考图 3"> |
+
+**Prompt:**
 ```
 一张超逼真的4K摄影级画面，场景设定为潮流感满满的播客录音间。背景为蓝灰色几何拼接声学泡沫墙，两侧专业补光灯从侧前方柔和打亮主体，阴影过渡自然无塑料感。构图采用对称式双人中景，视觉重心稳定于深色实木直播桌后方。桌面摆放两只印有宠物爪印图案的陶瓷咖啡杯，整体氛围拟人化、网感十足，毛发纹理根根分明，材质反射符合物理光学规律。画面左侧是一只戴着潮酷黑框墨镜、挂着金色项链的橘白英短猫，端坐在复古做旧皮质主播椅上，面前摆着黑色专业麦克风，前爪自然交叠搭在桌沿，表情拽酷又带点傲娇。画面右侧是一只戴着街头风棒球帽、耳朵上别着银色耳钉的棕色柴犬，同样坐于同款主播椅，正对着麦克风咧嘴笑，露出治愈系犬齿。双宠手肘均轻搭桌面，形成稳定的双人主播站位，镜头焦点锐利锁定面部与麦克风区域。
 基于此高精度底图进行动态口型驱动与表演设计：身份定位为宠物界"吐槽搭子"，对话主题围绕《铲屎官那些"自我感动"的迷惑行为》展开。角色人设与情绪分配明确：猫（橘白英短）担任毒舌吐槽役，语速稍快，情绪带着不屑与嘲讽；狗（柴犬）担任呆萌提问役，语速适中，情绪充满疑惑与好奇。
 ```
+
+**输出效果：**
+
+https://github.com/user-attachments/assets/a20adca0-bf45-4cae-b933-c98b86eac8d0
 
 ---
 
@@ -151,10 +161,24 @@ https://github.com/user-attachments/assets/06da22b8-8e47-4233-b6a8-fed2268fb2cc
 
 ### Case 1: 古风服装替换
 
-**参考图 + Prompt:**
+**参考图：**
+
+| 参考图 |
+|:---:|
+| <img src="videos/video-edit/images/videoeditcase1input.jpeg" width="300" alt="参考图"> |
+
+**输入视频：**
+
+https://github.com/user-attachments/assets/a43226c7-9592-4943-911d-8f88ae0f39cb
+
+**Prompt:**
 ```
 参考 Image 1，将视频中女主的衣服替换为图中所示的雾霾蓝明制汉服。汉服必须完全贴合女主的身形轮廓和动作姿态，宽大的袖子需跟随她的手臂运动自然摆动，立领和衣襟的层次感要随身体转动合理呈现。仙鹤与花卉刺绣的图案位置、比例和细节必须严格参照 Image 1，刺绣表面的光泽、阴影和材质质感必须与原视频环境的光源保持一致。在此过程中，女主的面部表情、发型、肤色、背景环境以及镜头的运镜轨迹必须保持 100% 不变。
 ```
+
+**输出效果：**
+
+https://github.com/user-attachments/assets/630e2fdf-e069-4e2c-9392-d0217d8b0ade
 
 ---
 
