@@ -17,7 +17,7 @@
 
 **输出效果：**
 
-<video src="https://github.com/modelstudioai/awesome-happyhorse-prompts/raw/main/videos/t2v/t2v_case1.mp4" controls width="300"></video>
+https://github.com/modelstudioai/awesome-happyhorse-prompts/releases/download/untagged-6b6a413d2f6861256368/t2v_case1.mp4
 
 ---
 
