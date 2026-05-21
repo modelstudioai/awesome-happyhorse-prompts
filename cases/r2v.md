@@ -33,7 +33,7 @@
 
 **输出效果：**
 
-<R2V_CASE1_URL>
+https://github.com/user-attachments/assets/a20adca0-bf45-4cae-b933-c98b86eac8d0
 
 ---
 
@@ -54,7 +54,7 @@ Generate a Pixar-style video. The camera orbits around a girl sitting at her des
 
 **输出效果：**
 
-<R2V_CASE2_URL>
+https://github.com/user-attachments/assets/0406df65-6330-43f4-9e1d-7bb82acffda2
 
 ---
 
@@ -73,7 +73,7 @@ Generate a Pixar-style video. The camera orbits around a girl sitting at her des
 
 **输出效果：**
 
-<R2V_CASE3_URL>
+https://github.com/user-attachments/assets/a476afe6-43fa-4ead-ab8a-37a90fd50ab4
 
 ---
 
@@ -93,7 +93,7 @@ Generate a Pixar-style video. The camera orbits around a girl sitting at her des
 
 **输出效果：**
 
-<R2V_CASE4_URL>
+https://github.com/user-attachments/assets/a2869803-6a41-48a4-8995-6795a19ebd9a
 
 ---
 
@@ -114,5 +114,5 @@ Generate a Pixar-style video. The camera orbits around a girl sitting at her des
 
 **输出效果：**
 
-<R2V_CASE5_URL>
+https://github.com/user-attachments/assets/3669f31b-8c82-482b-9781-1852a260ffd2
 

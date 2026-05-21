@@ -28,7 +28,7 @@
 
 **输出效果：**
 
-<VIDEOEDIT_CASE1_URL>
+https://github.com/user-attachments/assets/630e2fdf-e069-4e2c-9392-d0217d8b0ade
 
 ---
 
@@ -47,7 +47,7 @@
 
 **输出效果：**
 
-<VIDEOEDIT_CASE2_URL>
+https://github.com/user-attachments/assets/c5128211-d2c8-4485-b794-fcd3f5a36e11
 
 ---
 
@@ -66,7 +66,7 @@
 
 **输出效果：**
 
-<VIDEOEDIT_CASE3_URL>
+https://github.com/user-attachments/assets/c883624e-dd80-4326-bffa-dbeeab30341b
 
 ---
 
@@ -84,7 +84,7 @@ Transform the city into a cyberpunk style.
 
 **输出效果：**
 
-<VIDEOEDIT_CASE4_URL>
+https://github.com/user-attachments/assets/30ea0ef0-b2ac-462e-ac59-adcfbf5244c1
 
 ---
 
@@ -103,7 +103,7 @@ Transform the entire video into the Minecraft voxel style based on the visual ae
 
 **输出效果：**
 
-<VIDEOEDIT_CASE5_URL>
+https://github.com/user-attachments/assets/b1e7e3a0-1f8f-45c1-8422-492ae684633c
 
 ---
 
@@ -122,5 +122,5 @@ Transform the entire video into the Minecraft voxel style based on the visual ae
 
 **输出效果：**
 
-<VIDEOEDIT_CASE6_URL>
+https://github.com/user-attachments/assets/9b57f2de-7e1c-47ae-afa3-0c2bdd639b40
 
