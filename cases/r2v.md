@@ -27,9 +27,9 @@
 ```
 **参考图片：**
 
-![参考图 1](../videos/r2v/images/r2vcase1image1.png)
-![参考图 2](../videos/r2v/images/r2vcase1image2.png)
-![参考图 3](../videos/r2v/images/r2vcase1image3.png)
+| 参考图 1  |  参考图 2  |  参考图 3 |
+|:---: | :---: | :---:|
+| ![参考图 1](../videos/r2v/images/r2vcase1image1.png)  |  ![参考图 2](../videos/r2v/images/r2vcase1image2.png)  |  ![参考图 3](../videos/r2v/images/r2vcase1image3.png) |
 
 **输出效果：**
 
@@ -47,10 +47,9 @@ Generate a Pixar-style video. The camera orbits around a girl sitting at her des
 ```
 **参考图片：**
 
-![参考图 1](../videos/r2v/images/r2vcase2image1.png)
-![参考图 2](../videos/r2v/images/r2vcase2image2.png)
-![参考图 3](../videos/r2v/images/r2vcase2image3.png)
-![参考图 4](../videos/r2v/images/r2vcase2image4.png)
+| 参考图 1  |  参考图 2  |  参考图 3  |  参考图 4 |
+|:---: | :---: | :---: | :---:|
+| ![参考图 1](../videos/r2v/images/r2vcase2image1.png)  |  ![参考图 2](../videos/r2v/images/r2vcase2image2.png)  |  ![参考图 3](../videos/r2v/images/r2vcase2image3.png)  |  ![参考图 4](../videos/r2v/images/r2vcase2image4.png) |
 
 **输出效果：**
 
@@ -68,8 +67,9 @@ https://github.com/user-attachments/assets/0406df65-6330-43f4-9e1d-7bb82acffda2
 ```
 **参考图片：**
 
-![参考图 1](../videos/r2v/images/r2vcase3image1.png)
-![参考图 2](../videos/r2v/images/r2vcase3image2.png)
+| 参考图 1  |  参考图 2 |
+|:---: | :---:|
+| ![参考图 1](../videos/r2v/images/r2vcase3image1.png)  |  ![参考图 2](../videos/r2v/images/r2vcase3image2.png) |
 
 **输出效果：**
 
@@ -87,9 +87,9 @@ https://github.com/user-attachments/assets/a476afe6-43fa-4ead-ab8a-37a90fd50ab4
 ```
 **参考图片：**
 
-![参考图 1](../videos/r2v/images/r2vcase4image1.png)
-![参考图 2](../videos/r2v/images/r2vcase4image2.png)
-![参考图 3](../videos/r2v/images/r2vcase4image3.png)
+| 参考图 1  |  参考图 2  |  参考图 3 |
+|:---: | :---: | :---:|
+| ![参考图 1](../videos/r2v/images/r2vcase4image1.png)  |  ![参考图 2](../videos/r2v/images/r2vcase4image2.png)  |  ![参考图 3](../videos/r2v/images/r2vcase4image3.png) |
 
 **输出效果：**
 
@@ -107,10 +107,9 @@ https://github.com/user-attachments/assets/a2869803-6a41-48a4-8995-6795a19ebd9a
 ```
 **参考图片：**
 
-![参考图 1](../videos/r2v/images/r2vcase5image1.png)
-![参考图 2](../videos/r2v/images/r2vcase5image2.png)
-![参考图 3](../videos/r2v/images/r2vcase5image3.png)
-![参考图 4](../videos/r2v/images/r2vcase5image4.png)
+| 参考图 1  |  参考图 2  |  参考图 3  |  参考图 4 |
+|:---: | :---: | :---: | :---:|
+| ![参考图 1](../videos/r2v/images/r2vcase5image1.png)  |  ![参考图 2](../videos/r2v/images/r2vcase5image2.png)  |  ![参考图 3](../videos/r2v/images/r2vcase5image3.png)  |  ![参考图 4](../videos/r2v/images/r2vcase5image4.png) |
 
 **输出效果：**
 
