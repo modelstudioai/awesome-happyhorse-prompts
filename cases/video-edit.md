@@ -25,7 +25,7 @@
 
 | 参考图 | 输入视频 |
 |:---:|:---:|
-| ![参考图](../videos/video-edit/images/videoeditcase1input.jpeg) | [输入视频](../videos/video-edit/videoeditcase1input.mp4) |
+| ![参考图](../videos/video-edit/images/videoeditcase1input.jpeg) | https://github.com/user-attachments/assets/a43226c7-9592-4943-911d-8f88ae0f39cb |
 
 **输出效果：**
 
@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/630e2fdf-e069-4e2c-9392-d0217d8b0ade
 
 | 参考图 | 输入视频 |
 |:---:|:---:|
-| ![参考图](../videos/video-edit/images/videoeditcase2input.png) | [输入视频](../videos/video-edit/videoeditcase2input.mp4) |
+| ![参考图](../videos/video-edit/images/videoeditcase2input.png) | https://github.com/user-attachments/assets/125d1f81-c654-490c-aeec-97b986ba7b5b |
 
 **输出效果：**
 
@@ -65,7 +65,7 @@ https://github.com/user-attachments/assets/c5128211-d2c8-4485-b794-fcd3f5a36e11
 
 | 参考图 | 输入视频 |
 |:---:|:---:|
-| ![参考图](../videos/video-edit/images/videoeditcase3input.png) | [输入视频](../videos/video-edit/videoeditcase3input.mp4) |
+| ![参考图](../videos/video-edit/images/videoeditcase3input.png) | https://github.com/user-attachments/assets/2d2bd61f-bf6e-486e-ab52-a87b8f413d80 |
 
 **输出效果：**
 
@@ -85,7 +85,7 @@ Transform the city into a cyberpunk style.
 
 | 输入视频 |
 |:---:|
-| [输入视频](../videos/video-edit/videoeditcase4input.mp4) |
+| https://github.com/user-attachments/assets/ee2e4292-a85c-4c68-8950-23cf2780c297 |
 
 **输出效果：**
 
@@ -105,7 +105,7 @@ Transform the entire video into the Minecraft voxel style based on the visual ae
 
 | 参考图 | 输入视频 |
 |:---:|:---:|
-| ![参考图](../videos/video-edit/images/videoeditcase5input.png) | [输入视频](../videos/video-edit/videoeditcase5input.mp4) |
+| ![参考图](../videos/video-edit/images/videoeditcase5input.png) | https://github.com/user-attachments/assets/eb03e303-ec49-4bfe-ae79-7b65111f4119 |
 
 **输出效果：**
 
@@ -125,7 +125,7 @@ https://github.com/user-attachments/assets/b1e7e3a0-1f8f-45c1-8422-492ae684633c
 
 | 参考图 | 输入视频 |
 |:---:|:---:|
-| ![参考图](../videos/video-edit/images/videoeditcase6input.png) | [输入视频](../videos/video-edit/videoeditcase6input.mp4) |
+| ![参考图](../videos/video-edit/images/videoeditcase6input.png) | https://github.com/user-attachments/assets/cc472bfa-9f0a-4aff-a334-c79d1c5d935e |
 
 **输出效果：**
 
