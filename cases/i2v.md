@@ -20,9 +20,9 @@
 
 **输入图片：**
 
-![输入图片](../images/i2v/i2vcase1image1.png)
+![输入图片](../videos/i2v/images/i2vcase1image1.png)
 
-![输入图片](../images/i2v/i2vcase1image2.png)
+![输入图片](../videos/i2v/images/i2vcase1image2.png)
 
 **输出效果：**
 
@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/06da22b8-8e47-4233-b6a8-fed2268fb2cc
 
 **输入图片：**
 
-![输入图片](../images/i2v/i2vcase2image.png)
+![输入图片](../videos/i2v/images/i2vcase2image.png)
 
 **输出效果：**
 
@@ -64,7 +64,7 @@ https://github.com/user-attachments/assets/c1229f97-8d1f-4682-ad71-7249ca4bf0e2
 
 **输入图片：**
 
-![输入图片](../images/i2v/i2vcase3image.png)
+![输入图片](../videos/i2v/images/i2vcase3image.png)
 
 **输出效果：**
 
@@ -87,7 +87,7 @@ https://github.com/user-attachments/assets/ec1974ca-c251-43d2-9a05-bf7e51b58fb9
 
 **输入图片：**
 
-![输入图片](../images/i2v/i2vcase4image.png)
+![输入图片](../videos/i2v/images/i2vcase4image.png)
 
 **输出效果：**
 
@@ -107,7 +107,7 @@ https://github.com/user-attachments/assets/f121c9c1-b5c5-4dbf-8a1e-0b6280d2ccf8
 
 **输入图片：**
 
-![输入图片](../images/i2v/i2vcase5image.png)
+![输入图片](../videos/i2v/images/i2vcase5image.png)
 
 **输出效果：**
 
@@ -126,7 +126,7 @@ The camera slowly pushes into the astronaut's reflective gold visor, where a min
 
 **输入图片：**
 
-![输入图片](../images/i2v/i2vcase6image.png)
+![输入图片](../videos/i2v/images/i2vcase6image.png)
 
 **输出效果：**
 
@@ -145,7 +145,7 @@ The black and white wavy lines and checkered patterns in the background slowly r
 
 **输入图片：**
 
-![输入图片](../images/i2v/i2vcase7image.jpeg)
+![输入图片](../videos/i2v/images/i2vcase7image.jpeg)
 
 **输出效果：**
 
@@ -164,7 +164,7 @@ The cute teddy bear as it briskly walks forward across the train station platfor
 
 **输入图片：**
 
-![输入图片](../images/i2v/i2vcase8image.png)
+![输入图片](../videos/i2v/images/i2vcase8image.png)
 
 **输出效果：**
 
