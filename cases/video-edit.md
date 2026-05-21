@@ -25,7 +25,7 @@
 
 | 参考图 |
 |:---:|
-| ![参考图](../videos/video-edit/images/videoeditcase1input.jpeg) |
+| <img src="../videos/video-edit/images/videoeditcase1input.jpeg" width="300" alt="参考图"> |
 
 **输入视频：**
 
@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/630e2fdf-e069-4e2c-9392-d0217d8b0ade
 
 | 参考图 |
 |:---:|
-| ![参考图](../videos/video-edit/images/videoeditcase2input.png) |
+| <img src="../videos/video-edit/images/videoeditcase2input.png" width="300" alt="参考图"> |
 
 **输入视频：**
 
@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/125d1f81-c654-490c-aeec-97b986ba7b5b
 
 **输出效果：**
 
-https://github.com/user-attachments/assets/c5128211-d2c8-4485-b794-fcd3f5a36e11
+https://github.com/user-attachments/assets/ee135e9b-31c7-4821-9e8d-fd790f6c260d
 
 ---
 
@@ -73,7 +73,7 @@ https://github.com/user-attachments/assets/c5128211-d2c8-4485-b794-fcd3f5a36e11
 
 | 参考图 |
 |:---:|
-| ![参考图](../videos/video-edit/images/videoeditcase3input.png) |
+| <img src="../videos/video-edit/images/videoeditcase3input.png" width="300" alt="参考图"> |
 
 **输入视频：**
 
@@ -115,7 +115,7 @@ Transform the entire video into the Minecraft voxel style based on the visual ae
 
 | 参考图 |
 |:---:|
-| ![参考图](../videos/video-edit/images/videoeditcase5input.png) |
+| <img src="../videos/video-edit/images/videoeditcase5input.png" width="300" alt="参考图"> |
 
 **输入视频：**
 
@@ -139,7 +139,7 @@ https://github.com/user-attachments/assets/b1e7e3a0-1f8f-45c1-8422-492ae684633c
 
 | 参考图 |
 |:---:|
-| ![参考图](../videos/video-edit/images/videoeditcase6input.png) |
+| <img src="../videos/video-edit/images/videoeditcase6input.png" width="300" alt="参考图"> |
 
 **输入视频：**
 
