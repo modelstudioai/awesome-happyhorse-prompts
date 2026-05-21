@@ -17,7 +17,7 @@
 
 **输出效果：**
 
-https://github.com/modelstudioai/awesome-happyhorse-prompts/releases/download/untagged-6b6a413d2f6861256368/t2v_case1.mp4
+https://github.com/user-attachments/assets/6d32b6be-0528-4edb-b081-cafd653ea199
 
 ---
 
@@ -32,7 +32,7 @@ https://github.com/modelstudioai/awesome-happyhorse-prompts/releases/download/un
 
 **输出效果：**
 
-<video src="https://github.com/modelstudioai/awesome-happyhorse-prompts/raw/main/videos/t2v/t2v_case2.mp4" controls width="300"></video>
+https://github.com/user-attachments/assets/9e6c6ea9-d8b4-4209-ab51-791fff51d2bc
 
 ---
 
@@ -57,7 +57,7 @@ https://github.com/modelstudioai/awesome-happyhorse-prompts/releases/download/un
 
 **输出效果：**
 
-<video src="https://github.com/modelstudioai/awesome-happyhorse-prompts/raw/main/videos/t2v/t2v_case3.mp4" controls width="300"></video>
+https://github.com/user-attachments/assets/f3c93511-a23e-45f5-96aa-314e6d9237e5
 
 ---
 
@@ -75,7 +75,7 @@ https://github.com/modelstudioai/awesome-happyhorse-prompts/releases/download/un
 
 **输出效果：**
 
-<video src="https://github.com/modelstudioai/awesome-happyhorse-prompts/raw/main/videos/t2v/t2v_case4.mp4" controls width="300"></video>
+https://github.com/user-attachments/assets/e4fc2d36-216a-492a-8551-39edfd267a78
 
 ---
 
@@ -90,7 +90,7 @@ https://github.com/modelstudioai/awesome-happyhorse-prompts/releases/download/un
 
 **输出效果：**
 
-<video src="https://github.com/modelstudioai/awesome-happyhorse-prompts/raw/main/videos/t2v/t2v_case5.mp4" controls width="300"></video>
+https://github.com/user-attachments/assets/f2e56bd6-5434-4496-9bcd-154dd69b5708
 
 ---
 
@@ -105,7 +105,7 @@ A cinematic script scene set in a sun-drenched Parisian café, golden afternoon 
 
 **输出效果：**
 
-<video src="https://github.com/modelstudioai/awesome-happyhorse-prompts/raw/main/videos/t2v/t2v_case6.mp4" controls width="300"></video>
+https://github.com/user-attachments/assets/4099ebee-af7b-49ab-85fe-6c774790518e
 
 ---
 
@@ -120,7 +120,7 @@ A cinematic script scene set in a sun-drenched Parisian café, golden afternoon 
 
 **输出效果：**
 
-<video src="https://github.com/modelstudioai/awesome-happyhorse-prompts/raw/main/videos/t2v/t2v_case7.mp4" controls width="300"></video>
+https://github.com/user-attachments/assets/afc5504d-1cc0-4116-9f75-b9a74c66240d
 
 ---
 
@@ -135,7 +135,7 @@ A cinematic script scene set in a sun-drenched Parisian café, golden afternoon 
 
 **输出效果：**
 
-<video src="https://github.com/modelstudioai/awesome-happyhorse-prompts/raw/main/videos/t2v/t2v_case8.mp4" controls width="300"></video>
+https://github.com/user-attachments/assets/7d40d64d-f2f0-459c-8d28-f5dbce0be0a5
 
 ---
 
@@ -154,7 +154,7 @@ A cinematic script scene set in a sun-drenched Parisian café, golden afternoon 
 
 **输出效果：**
 
-<video src="https://github.com/modelstudioai/awesome-happyhorse-prompts/raw/main/videos/t2v/t2v_case9.mp4" controls width="300"></video>
+https://github.com/user-attachments/assets/98e32ca1-6af2-4024-ae23-9792dd9b8538
 
 ---
 
@@ -169,7 +169,7 @@ A cinematic script scene set in a sun-drenched Parisian café, golden afternoon 
 
 **输出效果：**
 
-<video src="https://github.com/modelstudioai/awesome-happyhorse-prompts/raw/main/videos/t2v/t2v_case10.mp4" controls width="300"></video>
+https://github.com/user-attachments/assets/e578d531-51f6-4c1e-970e-b2c91934bc0d
 
 ---
 
@@ -184,7 +184,7 @@ A cinematic script scene set in a sun-drenched Parisian café, golden afternoon 
 
 **输出效果：**
 
-<video src="https://github.com/modelstudioai/awesome-happyhorse-prompts/raw/main/videos/t2v/t2v_case11.mp4" controls width="300"></video>
+https://github.com/user-attachments/assets/03efbcdd-b215-4f34-b3b4-3faf08bf5b85
 
 ---
 
@@ -199,4 +199,4 @@ A cinematic script scene set in a sun-drenched Parisian café, golden afternoon 
 
 **输出效果：**
 
-<video src="https://github.com/modelstudioai/awesome-happyhorse-prompts/raw/main/videos/t2v/t2v_case12.mp4" controls width="300"></video>
+https://github.com/user-attachments/assets/1ae6d1fd-3870-415a-a513-df9056f2fccf
