@@ -2,34 +2,44 @@
 
 <div align="center">
 
-A curated collection of high-quality prompts, creative workflows, and usage guides for HappyHorse 1.0 video generation models.
+A curated collection of high-quality prompts, creative workflows, and usage guides for HappyHorse 1.0 & 1.1 video generation models.
 
-HappyHorse 1.0 视频生成模型（文生视频 / 图生视频 / 参考生视频 / 视频编辑）的精选 Prompt 合集与创作指南。
+HappyHorse 1.0 / 1.1 视频生成模型（文生视频 / 图生视频 / 参考生视频 / 视频编辑）的精选 Prompt 合集与创作指南。
 
 </div>
 
 ## 🌟 模型亮点速览
 
-[HappyHorse 1.0](https://bailian.console.aliyun.com/cn-beijing?tab=demohouse&source_channel=hhpromptrepo#/experience/t2v) 是一款基于原生多模态架构的新一代 AI 视频生成模型，支持音视频协同生成。产品深度适配广告营销、电商展示、短剧制作与社交媒体创意等内容生产场景，提供从**智能生成**到**精细编辑**的一体化创作工作流。
+[HappyHorse 1.1](https://bailian.console.aliyun.com/cn-beijing?tab=model&source_channel=hhpromptrepo#/model-market/detail/happyhorse-1.1-t2v?serviceSite=asia-pacific-china) 是新一代视频生成大模型，在 1.0 基础上实现动态表现力、角色一致性、指令遵循、视觉质感与音频能力的全面升级，聚焦短剧制作、电商广告、品牌营销、游戏 CG 等内容生产场景。
 
-- **画面够专业**：电影级光影与质感，直出可用
-- **镜头够流畅**：运镜稳定、转场自然，告别生硬切换
-- **人物够真实**：表情细腻、动作自然，拒绝"恐怖谷"效应
-- **叙事够清晰**：中近景表现力强，适合剧情与对话场景
-- **创作够自由**：风格多样、参数可调，满足差异化需求
+- **动态表现力提升**：运动建模与帧间时序一致性优化，动作更连贯、力量感更强
+- **多图参考一致性增强（R2V）**：支持多角色参考同屏不互相污染、角色与场景自由组合，分镜和九宫格故事板一致性大幅提升
+- **长指令与复杂场景调度**：单条 Prompt 支持 6-8 个连续场景自动调度，多角色站位与空间关系更准确
+- **视觉质感升级**：优化面部细节与真实肤质还原，面部大特写表现力显著提升
+- **原生音视频协同**：音频生成升级为原生协同，台词语速停顿自然变化，背景音效受 Prompt 控制可关闭
 
 ## 📖 模型详情
 
 | 模型名称 | 模型能力 | 输入输出 | 计费单价 |
 |---------|---------|---------|---------|
-| happyhorse-1.0-i2v | 以首帧图片为基础，支持通过文本描述进行引导，生成物理真实、运动流畅的视频。 | 图片 + 文字 → 视频 | 720P：¥0.9/秒；1080P：¥1.6/秒；免费额度：10s |
-| happyhorse-1.0-t2v | 输入文本提示词生成物理真实、运动流畅的视频内容。 | 文字 → 视频 | 720P：¥0.9/秒；1080P：¥1.6/秒；免费额度：10s  |
-| happyhorse-1.0-r2v | 支持传入多张参考图像，通过文本提示词描述场景，将图像中的主体角色融合生成一段流畅的视频。 | 参考图片 + 文字 → 视频 | 720P：¥0.9/秒；1080P：¥1.6/秒；免费额度：10s  |
-| happyhorse-1.0-video-edit | 支持输入视频与参考图，结合文本指令完成风格变换、局部替换等编辑任务。 | 视频 + 文字（+ 参考图） → 视频 | 720P：¥0.9/秒；1080P：¥1.6/秒；免费额度：10s  |
+| [happyhorse-1.1-i2v](https://bailian.console.aliyun.com/cn-beijing?tab=model&source_channel=hhpromptrepo#/model-market/detail/happyhorse-1.1-i2v?serviceSite=asia-pacific-china) | 以首帧图片为基础，支持通过文本描述进行引导，生成物理真实、运动流畅的视频。 | 图片 + 文字 → 视频 | 720P：¥0.9/秒；1080P：¥1.2/秒；免费额度：10s；**6.22 - 7.5 六折优惠** |
+| [happyhorse-1.1-t2v](https://bailian.console.aliyun.com/cn-beijing?tab=model&source_channel=hhpromptrepo#/model-market/detail/happyhorse-1.1-t2v?serviceSite=asia-pacific-china) | 输入文本提示词生成物理真实、运动流畅的视频内容。 | 文字 → 视频 | 720P：¥0.9/秒；1080P：¥1.2/秒；免费额度：10s；**6.22 - 7.5 六折优惠** |
+| [happyhorse-1.1-r2v](https://bailian.console.aliyun.com/cn-beijing?tab=model&source_channel=hhpromptrepo#/model-market/detail/happyhorse-1.1-r2v?serviceSite=asia-pacific-china) | 支持传入多张参考图像、九宫格故事板，通过文本提示词描述场景，将图像中的主体角色或根据分镜融合生成一段流畅的视频。 | 参考图片 + 文字 → 视频 | 720P：¥0.9/秒；1080P：¥1.2/秒；免费额度：10s；**6.22 - 7.5 六折优惠** |
+| happyhorse-1.0-video-edit | 支持输入视频与参考图，结合文本指令完成风格变换、局部替换等编辑任务。 | 视频 + 文字（+ 参考图） → 视频 | 720P：¥0.9/秒；1080P：¥1.6/秒；免费额度：10s |
 
+> 💡 HappyHorse 1.0 系列模型维持 **8 折** 折扣至 2026 年 7 月 5 日。
+>
 > ⚠️ 注：HappyHorse 原生支持中文（普通话）、英语、日语，更多语种支持中
 
 ## Contents
+
+### HappyHorse 1.1
+
+- [T2V 文生视频（1.1）](cases/t2v-1.1.md)
+- [I2V 图生视频（1.1）](cases/i2v-1.1.md)
+- [R2V 参考生视频（1.1）](cases/r2v-1.1.md)
+
+### HappyHorse 1.0
 
 - [T2V 文生视频](cases/t2v.md)
 - [I2V 图生视频](cases/i2v.md)
@@ -204,8 +214,11 @@ https://github.com/user-attachments/assets/630e2fdf-e069-4e2c-9392-d0217d8b0ade
 - 新加坡：`POST https://dashscope-intl.aliyuncs.com/api/v1/services/aigc/video-generation/video-synthesis`
 
 **立刻体验模型：**
-- 国内：[百炼控制台](https://bailian.console.aliyun.com/cn-beijing?tab=demohouse&source_channel=hhpromptrepo#/experience/t2v)
+- 国内：[百炼控制台 - HappyHouse 体验中心](https://bailian.console.aliyun.com/cn-beijing?tab=demohouse&source_channel=hhpromptrepo#/experience/t2v)
 - 国际：[ModelStudio Console](https://modelstudio.console.alibabacloud.com/ap-southeast-1?tab=dashboard&source_channel=HHpromptRe#/efm/model_experience_center/vision/videoGenerate)
+
+**Prompt 创作指南：**
+- 仓库内置 Skill：[happyhorse-prompt-craft-SKILL.md](happyhorse-prompt-craft-SKILL.md) —— HappyHorse 1.0/1.1 R2V/I2V/T2V prompt 创作与优化实战指南
 
 ---
 
