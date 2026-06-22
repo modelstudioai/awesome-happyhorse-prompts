@@ -1,5 +1,7 @@
 # Awesome HappyHorse Prompts
 
+🌐 **语言：** 中文 · [🇬🇧 English](README.en.md)
+
 <div align="center">
 
 <img src="assets/happyhorse-banner.png" width="100%" alt="HappyHorse 1.1 Banner">
