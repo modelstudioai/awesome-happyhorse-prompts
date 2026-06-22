@@ -107,13 +107,96 @@ https://github.com/user-attachments/assets/245378f7-1096-4b70-86a9-8ac37bfcd471
 
 ---
 
+#### Girl & Cats — Japanese animated-film storyboard
+
+**Reference:**
+
+| Storyboard reference |
+|:---:|
+| <img src="videos/r2v-1.1/images/girlcats.png" width="300" alt="Girl & cats storyboard"> |
+
+> **Prompt intent (EN annotation):** A 9-shot pastoral piece driven by a single 3×3 storyboard, styled as a Japanese animated short. Levers worth tuning: (a) anchor character + companion + hero prop (girl + tabby kitten + glass wind chime); (b) seasonal palette (summer countryside, warm sunlight, nostalgic); (c) panel-level beat list runs from discovery → curiosity → connection → wide establishing → golden-hour close; (d) global "no on-screen text or grid lines" guard so the 3×3 reference doesn't leak into the output.
+
+**Prompt (verbatim):**
+```
+按照故事板序列生成视频。[Image 1] 是一张 3x3 的故事板拼图。请严格按从左到右、从上到下的顺序，将每个格子视为视频的一个独立镜头，依次生成连贯序列。
+【风格与氛围】日系动画电影感，夏日乡村、温暖阳光、清新治愈、安静怀旧。画面严禁出现任何文字或拼图网格线。
+【角色设定】主角：穿浅黄色连衣裙的小女孩，黑色短发。配角：灰色虎斑小猫，圆眼好奇。核心道具：挂在日本乡村老屋檐下的透明玻璃风铃。
+【分镜指令】格子1：女孩在木质门廊边发现风铃；格子2：花丛后小猫探头观察；格子3：风铃在蓝天下随风摇晃；格子4：女孩蹲下身把风铃放低给小猫看；格子5：小猫伸爪轻触风铃纸签；格子6：女孩开心地抱起小猫；格子7：女孩和小猫并肩坐在门廊上；格子8：大全景展现宁静夏日乡村；格子9：夕阳金光中的风铃轻摇收束。
+【生成要求】保持每格构图与镜头语言，角色外貌与光影氛围全程一致，镜头运动柔和自然，整体像一支温柔的动画电影片段。
+```
+
+**Output:**
+
+**HappyHorse 1.1**
+
+https://github.com/user-attachments/assets/43a583b3-5e9e-4411-90f9-66e094cb7b4c
+
+**HappyHorse 1.0**
+
+https://github.com/user-attachments/assets/db952559-1271-4f06-8d68-3a6028683715
+
+---
+
+#### Happy Run Citrus — Japanese youth sports-drink ad
+
+**Reference:**
+
+| Storyboard reference |
+|:---:|
+| <img src="videos/r2v-1.1/images/happyrunv3.png" width="300" alt="Happy Run citrus ad storyboard"> |
+
+> **Prompt intent (EN annotation):** A 9-panel commercial-grade storyboard run for a fictional sports-drink brand. Levers worth tuning: (a) explicit aspect ratio reminder (`16:9`) baked into the prompt — keeps the model from cropping mid-panel; (b) brand color spec locked in two complementary hues (橙色外套 ↔ 蓝色饮料瓶); (c) panel beats follow a CM (Japanese commercial) arc — product reveal → drinking shot → action montage → group bonding → hero shot; (d) global "no extra text or watermark" guard protects the brand-clean look.
+
+**Prompt (verbatim):**
+```
+按照故事板序列生成一支日系青春汽水广告视频。[Image 1] 是一张 16:9 的 3x3 故事板拼图。请严格按照左上→中上→右上→左中→中中→右中→左下→中下→右下的顺序，将每个格子视为一个独立镜头，依次生成连贯广告片段。
+【整体风格】日本夏日运动饮料广告风格，青春、清爽、阳光、积极、带一点日剧 CM 的热血感。写实真人广告质感，蓝天、城市天台、篮球场、河岸 skyline、橙色运动外套与蓝色饮料瓶形成强烈品牌色对比。
+【角色与产品】女主：年轻日本女生，短发或中短发，穿橙色轻薄运动外套、白色短上衣、深蓝运动裤，气质清爽自信。产品为蓝橙配色的 Happy Run Citrus 能量汽水瓶，瓶身有冷凝水珠，阳光下闪光。
+【分镜指令】格子1：城市天台女主递出饮料瓶；格子2：女主仰头喝 Happy Run；格子3：女主在天台篮球场奔跑；格子4：女主坐在户外长椅上专注学习；格子5：三人击拳互动；格子6：夕阳下女主望向城市；格子7：女主自信望向远方；格子8：品牌主视觉镜头；格子9：三人碰瓶开心大笑收束。
+【生成要求】保持每格构图与人物位置关系，镜头间自然转场，角色脸部、服装、产品、蓝橙品牌色全程一致。写实高清广告片质感，不要多余文字和水印。
+```
+
+**Output:**
+
+**HappyHorse 1.1**
+
+https://github.com/user-attachments/assets/368387bc-138d-4b58-91f3-03c4fb11e429
+
+**HappyHorse 1.0**
+
+https://github.com/user-attachments/assets/2bbc2dd9-47f5-4fb3-a563-d2b6e60fe75e
+
+---
+
 ### T2V Text-to-Video (1.1)
 
 > [Explore all 1.1 T2V prompts →](cases/t2v-1.1.en.md)
 
 **Long-context scheduling:** describe 6–8 sequential beats in a single prompt; the model allocates shot durations automatically.
 
-See full case `Classroom Pure Love — Japanese youth short film` in [cases/t2v-1.1.en.md](cases/t2v-1.1.en.md).
+#### Classroom Pure Love — Japanese youth short film
+
+> **Prompt intent (EN annotation):** A single-prompt 15-second cinematic piece — no reference images, no first frame — leaning entirely on T2V's long-context scheduler. Levers worth tuning: (a) duration ("15秒") and quality marker ("电影级…超写实") prefixed before any beat description, so the model allocates pacing globally; (b) loose narrative description rather than rigid timecodes (works better for emotional/performance scenes per the 1.1 craft guide); (c) atmosphere-first noun stacking (afternoon empty classroom · warm gold sunlight · venetian blinds · paired desks).
+
+**Prompt (verbatim):**
+```
+15秒电影级日式纯爱暧昧短片，超写实画质。午后空教室暖金色阳光透过百叶窗洒在并排课桌上...
+```
+
+> Full prompt and shot-by-shot annotations: [cases/t2v-1.1.en.md](cases/t2v-1.1.en.md).
+
+**Output:**
+
+**HappyHorse 1.1**
+
+https://github.com/user-attachments/assets/dfe29214-c823-446d-a732-58cc64af37b1
+
+**HappyHorse 1.0**
+
+https://github.com/user-attachments/assets/1bfdb3d3-6c08-466f-bdfb-1d980b4a4280
+
+---
 
 ### I2V Image-to-Video (1.1)
 
@@ -121,7 +204,32 @@ See full case `Classroom Pure Love — Japanese youth short film` in [cases/t2v-
 
 **Smoother motion + better fidelity:** use the first frame as the visual anchor and keep prompts focused on motion / camera / SFX.
 
-See `Bamboo Forest Duel — ink-wash wuxia` in [cases/i2v-1.1.en.md](cases/i2v-1.1.en.md).
+#### Bamboo Forest Duel — ink-wash wuxia
+
+**First-frame reference:**
+
+| First-frame reference |
+|:---:|
+| <img src="videos/i2v-1.1/images/bamboo.png" width="300" alt="Bamboo first frame"> |
+
+> **Prompt intent (EN annotation):** Demonstrates 1.1 I2V's English-prompt support and the "30–60 character minimalism" principle — the first frame already encodes character + setting + lighting, so the prompt only describes motion + camera + audio. Levers worth tuning: (a) wind/atmosphere verb ("surges") sets a global motion intensity; (b) explicit physical action ("leaps onto bamboo tips") gives the model a kinematic anchor; (c) camera language is implicit, letting the model auto-allocate movement.
+
+**Prompt (verbatim):**
+```
+Wind surges through the bamboo forest. The white-robed swordswoman leaps onto bamboo tips...
+```
+
+> Full prompt: [cases/i2v-1.1.en.md](cases/i2v-1.1.en.md).
+
+**Output:**
+
+**HappyHorse 1.1**
+
+https://github.com/user-attachments/assets/c93c9a2c-2228-44aa-91dd-37db35ff8d1e
+
+**HappyHorse 1.0**
+
+https://github.com/user-attachments/assets/9d467975-4663-458f-8668-e134b519b428
 
 ---
 
