@@ -63,7 +63,7 @@ https://github.com/user-attachments/assets/12e1284b-89df-40e2-b539-9f8dabc3274e
 
 **输出效果：**
 
-<!-- classroom_v4_t2v_v15.mp4 -->
+https://github.com/user-attachments/assets/dfe29214-c823-446d-a732-58cc64af37b1
 
 ---
 
