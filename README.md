@@ -6,6 +6,10 @@ A curated collection of high-quality prompts, creative workflows, and usage guid
 
 HappyHorse 1.0 / 1.1 视频生成模型（文生视频 / 图生视频 / 参考生视频 / 视频编辑）的精选 Prompt 合集与创作指南。
 
+[![HappyHorse](https://img.shields.io/badge/HappyHorse-🐴%20官网-orange)](https://www.happyhorse.com/)
+<a href="https://bailian.console.aliyun.com/cn-beijing?tab=demohouse&source_channel=hhpromptrepo#/experience/t2v"><img src="assets/bailian-logo.png" height="20" alt="阿里云百炼"></a>
+[![Last Commit](https://img.shields.io/github/last-commit/modelstudioai/awesome-happyhorse-prompts)](https://github.com/modelstudioai/awesome-happyhorse-prompts/commits/main)
+
 </div>
 
 ## 🌟 模型亮点速览
