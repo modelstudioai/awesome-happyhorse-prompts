@@ -88,7 +88,7 @@ Wind surges through the bamboo forest. The white-robed swordswoman leaps onto ba
 
 **输出效果：**
 
-<!-- bamboo_i2v_v15.mp4 -->
+https://github.com/user-attachments/assets/c93c9a2c-2228-44aa-91dd-37db35ff8d1e
 
 ---
 
