@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="assets/happyhorse-banner.png" width="100%" alt="HappyHorse 1.1 Banner">
+
 A curated collection of high-quality prompts, creative workflows, and usage guides for HappyHorse 1.0 & 1.1 video generation models.
 
 HappyHorse 1.0 / 1.1 视频生成模型（文生视频 / 图生视频 / 参考生视频 / 视频编辑）的精选 Prompt 合集与创作指南。
